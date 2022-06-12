@@ -7,7 +7,7 @@ pi = 3.14159
 
 def area_triangulo():
     area_triangulo = (A * C)/2
-    print('TRIANGULO = {:.3f}'.format(area_triangulo))
+    print('TRIANGULO: {:.3f}'.format(area_triangulo))
 
 def area_circulo():
     area_circulo = pi * C**2

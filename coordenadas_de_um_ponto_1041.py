@@ -22,9 +22,9 @@ if x == 0 and y == 0:
     print("Origem")
 #Eixo X
 if x == 0:
-    print("Eixo X")
+    print("Eixo Y")
 #Eixo Y
 if y == 0:
-    print("Eixo Y")
+    print("Eixo X")
 
 
